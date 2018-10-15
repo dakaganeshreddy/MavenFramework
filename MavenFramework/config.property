@@ -1,0 +1,3 @@
+URL=http://localhost/login.do
+IMPLICIT.WAIT=10
+PRODUCTVERSION=actiTIME 2017.4
